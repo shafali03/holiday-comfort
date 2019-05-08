@@ -10,7 +10,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-1.jpeg"
+              "url": "./images/product-1.jpg"
             }
           }
         }
@@ -26,7 +26,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-2.jpeg"
+              "url": "./images/product-2.jpg"
             }
           }
         }
@@ -42,7 +42,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-3.jpeg"
+              "url": "./images/product-3.jpg"
             }
           }
         }
@@ -58,7 +58,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-4.jpeg"
+              "url": "./images/product-4.jpg"
             }
           }
         }
@@ -74,7 +74,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-5.jpeg"
+              "url": "./images/product-5.jpg"
             }
           }
         }
@@ -90,7 +90,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-6.jpeg"
+              "url": "./images/product-6.jpg"
             }
           }
         }
@@ -106,7 +106,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-7.jpeg"
+              "url": "./images/product-7.jpg"
             }
           }
         }
@@ -122,7 +122,7 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-8.jpeg"
+              "url": "./images/product-8.jpg"
             }
           }
         }
@@ -138,7 +138,55 @@
         "image": {
           "fields": {
             "file": {
-              "url": "./images/product-9.jpeg"
+              "url": "./images/product-9.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "India",
+        "price": 750,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-10.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Mauritius",
+        "price": 975,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-11.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "South Africa",
+        "price": 450,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-12.jpg"
             }
           }
         }
